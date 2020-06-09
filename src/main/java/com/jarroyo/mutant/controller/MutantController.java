@@ -23,6 +23,11 @@ import com.jarroyo.mutant.service.MutantService;
 @RequestMapping("/mutant")
 public class MutantController {
 	
+	/**
+	 * @author Jesús Arroyo.
+	 */
+
+	
 	private static final Log LOGGER = LogFactory.getLog(MutantController.class);
 
 	@Autowired
